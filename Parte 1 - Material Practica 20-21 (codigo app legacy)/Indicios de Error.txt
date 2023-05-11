@@ -1,0 +1,1 @@
+-en la tabla alumnos de la base de datos no aparece el numero de matricula.
